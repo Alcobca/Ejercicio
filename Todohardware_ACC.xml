@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
+    <channel>
+      <title>TodoHardware tus noticias de hardware de confianza</title>
+      <link>https://github.com/A21cocaal</link>
+      <description>Este canal redacta noticias Hardware</description>
+      <webMaster>a21cocaal@iesgrancapitan.org (Alberto Cobos)</webMaster>
+      <language>es</language>
+      <lastBuildDate>Wed, 09 Feb 2022 10:15:00 GMT</lastBuildDate>
+<image>
+<link>https://github.com/A21cocaal</link>
+<title>TodoHardware tus noticias de hardware de confianza</title>
+<url>https://cdn.pixabay.com/photo/2012/12/17/19/14/keyboard-70506_1280.jpg</url>
+</image>
+
+
+<item>
+  <guid>https://hardzone.es/noticias/tarjetas-graficas/stock-tarjetas-graficas-precios-altos/</guid>
+        <title>Vuelve el stock de tarjetas gráficas, pero los precios siguen altos</title>
+        <description>¿Cuándo bajarán las GPU de precio?
+      Impredecible es el mercado e impredecible su futuro. La estabilización de oferta y demanda va por buen camino y salvo implosión de una nueva criptomoneda que pueda minarse con GPU todavía quedan muchos meses para ver precios cercanos al MSRP.
+      Pero hay más. Y es que este, el MSRP, podría desaparecer en AMD y NVIDIA. ¿Por qué? Por una razón muy sencilla: no pueden controlar los precios y los fabricantes les están dando la espalda porque a ellos les cuesta más cada unidad. La especulación hace el resto y la imagen que se da es de pantomima, por ser suaves. A día de hoy el MSRP no vale para nada más allá de fijar el precio de las unidades Reference y estas podrían desaparecer finalmente
+       y con ellas dicho MSRP.
+       Así, la pelota pasa directamente al tejado de los fabricantes y AMD o NVIDIA se lavarían las manos de la mala publicidad, o al menos esos son los rumores que corren tras bambalinas. Realidad o no, 
+       seguimos con plena especulación sobre todo lo dicho hasta ahora, son solo conjeturas, el mercado es cambiante y el mes que viene podría haber otro escenario distinto por cualquier mínimo cambio.</description>
+        <enclosure url="https://cdn.pixabay.com/photo/2020/06/07/00/07/computer-5268574_1280.jpg" length="78654" type="image/jpg"/>  
+        <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
+        <source url="https://hardzone.es/noticias/tarjetas-graficas/stock-tarjetas-graficas-precios-altos/"> </source>
+
+</item>
+<item>
+    <guid>https://www.geeknetic.es/Noticia/24450/Cooler-Master-presenta-nuevas-fuentes-de-alimentacion-con-conector-PCIe-50-y-hasta-1300W.html</guid>
+    <title>Cooler Master presenta nuevas fuentes de alimentación con conector PCIe 5.0 y hasta 1300W</title>
+    <description>La semana pasada conocíamos la nueva línea de fuentes de alimentación MSI MEG y MPG que incluyen el nuevo conector para tarjetas gráficas de próxima generación PCI Express 5.0. Ahora también lo vemos disponible en las nuevas fuentes de Cooler Master modelos V1100 y V1300. Estos nuevos modelos del fabricante vienen en formato compacto SFX-L ideales para construcciones Mini-ITX donde el espacio no sobra. 
+Además, ofrecerán toda la potencia que necesites incluso para las gráficas que más consuman gracias a su conector PCI Express 5.0 dedicado.
+Disponibles dos modelos, el V1100 con 1100 W y el V1300 con 1300 W ambos cuentan con el nuevo conector para tarjetas gráficas PCI Express 5.0 de próxima generación, este conector es capaz de ofrecer hasta 600W en un solo cable. Además, estos modelos cuentan con una certificación 80 PLUS Platinum capaces de ofrecer un 92% de eficiencia energética. La fuente, como es habitual en estos modelos de gama alta, cuenta con un cableado totalmente modular y así poder instalar únicamente los necesarios. 
+También incluye un ventilador de 120 mm para mantener una buena temperatura en el interior.</description>
+        <enclosure url="https://cdn.pixabay.com/photo/2016/01/29/15/42/computer-1168203_1280.jpg" length="78654" type="image/jpg"/>  
+        <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
+        <source url="https://www.geeknetic.es/Noticia/24450/Cooler-Master-presenta-nuevas-fuentes-de-alimentacion-con-conector-PCIe-50-y-hasta-1300W.html"> </source>
+</item>
+<item>
+  <guid>https://www.elespanol.com/elandroidelibre/tutoriales/20220205/activar-memoria-ram-virtual-xiaomi/624938269_0.html</guid>
+        <title>Cómo activar la memoria RAM virtual en tu Xiaomi</title>
+        <description>Xiaomi ha integrado la opción de la memoria RAM virtual en algunos dispositivos, y te puede venir bien en situaciones de alta exigencia.:
+        Esta nueva característica se integra dentro de Ajustes, por lo que encontrarla es bastante rápido, no tardarás más de un minuto. Eso sí, debes tener en cuenta que no es una prestación que esté activa  Solo tienes que seguir estos pasos:
+Abre Ajustes.
+Ve hasta Ajustes Adicionales.
+Pulsa en extensión de RAM.
+Cuando lo hagas, habrás añadido 3 GB de memoria RAM virtual a tu dispositivo, por lo que si este tenía 3 GB de memoria RAM, ahora pasarán a ser 6 GB.
+ Aunque debes tener en cuenta que no es así como tal. No es tan bonito como parece.
+ La memoria RAM virtual consiste en utilizar parte del almacenamiento interno del dispositivo cómo memoria RAM adicional para situaciones en las que el móvil lo necesite por un sobrecargo de tareas. Estos 3 GB, lógicamente, no estarán disponible para su uso como memoria interna.
+        </description>
+        <enclosure url="https://cdn.pixabay.com/photo/2020/03/16/11/07/xiaomi-4936657_1280.jpg"  length="78654" type="image/jpg"/>
+        <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
+<source url="https://www.elespanol.com/elandroidelibre/tutoriales/20220205/activar-memoria-ram-virtual-xiaomi/624938269_0.html"></source>
+
+</item>
+<item>
+  <guid>https://elchapuzasinformatico.com/2022/02/intel-lista-16-nuevas-vulnerabilidades-a-nivel-de-bios/</guid>
+        <title>Intel lista 16 nuevas vulnerabilidades a nivel de BIOS</title>
+        <description>Intel ha revelado en su boletín de seguridad que ha descubierto 16 nuevas vulnerabilidades a nivel de BIOS. Diez de estas vulnerabilidades tienen una calificación de gravedad "alta",
+         lo que significa que permiten el acceso sin restricciones al sistema (escalada de privilegios o ataques de denegación de servicio), mientras que tres están clasificadas como "media" y una como "baja Estas vulnerabilidades afectan a cualquier CPU Intel Core de 6ª Generación hacia delante, salvo la nueva arquitectura Alder Lake (12ª Gen)
+         , así como su gama de procesadores Intel Xeon: Hay que destacar que Intel señala que todos estas vulnerabilidades sólo pueden ser explotadas si el atacante tiene acceso físico a la máquina, por lo que no pueden ser explotadas de forma remota..
+         </description>
+
+        <enclosure url="https://cdn.pixabay.com/photo/2019/08/08/16/54/cpu-4393376_1280.jpg" length="78654" type="image/jpg"/>     
+        <author>a21cocaal@iesgrancapitan.org (Alberto Cobos)</author>
+        <source url="https://elchapuzasinformatico.com/2022/02/intel-lista-16-nuevas-vulnerabilidades-a-nivel-de-bios/">    </source>
+</item>
+</channel>
+</rss>
